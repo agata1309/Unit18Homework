@@ -10,8 +10,12 @@
   width: 23%;
   padding: 1%;
   text-align: center;
- 
+  
+. logo p{
+  text-align: right;
 }
+
+  
 .logoImg {
   float: left;
 }
