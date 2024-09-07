@@ -81,7 +81,7 @@ nav ul {
 display: grid;
 grid-template-columns: 1fr 1fr;
 gap: 5rem;
-padding: 15px;
+/* padding: 15px; */
 
 }
   
