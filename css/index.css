@@ -77,11 +77,10 @@ nav ul {
 }
 
 
-.workGrid{
+.workGrid {
 display: grid;
 grid-template-columns: 1fr 1fr;
 gap: 2rem;
-/* padding: 15px; */
 
 }
   
