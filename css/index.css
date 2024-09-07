@@ -4,30 +4,28 @@
   display: inline-block;
   vertical-align: top;
   gap: 4rem;
-
 }
+
 .logo {
   width: 23%;
   padding: 1%;
-  text-align: center;
-  
-/* .logo p{
   text-align: right;
-} */
-
+}
   
 .logoImg {
   float: left;
 }
+
 nav {
   width: 72%;
   padding: 1%;
 }
+
 nav ul {
   float: right;
-  
-
 }
+
+
 .heroImg {
   height: 600px;
   padding: 25px;
@@ -42,6 +40,7 @@ nav ul {
   margin: 0 auto;
   text-align: right;
 }
+
 .content  {
   width: 500px; 
   margin:0 auto;
@@ -93,10 +92,11 @@ footer ul {
   display: inline-block;
   vertical-align: bottom;
 }
+
 footer ul li {
   padding: 5px 10px;
   color: #fff;
-
+}
 
 
 @media only screen and (max-width:600px) {
