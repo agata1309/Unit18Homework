@@ -58,6 +58,7 @@ nav ul {
 
 .mySkills {
   display:flex;
+  width:15%;
   gap: 8rem;
   padding: 2px;
   border:1px solid grey;
