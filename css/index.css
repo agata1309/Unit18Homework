@@ -64,6 +64,10 @@ nav ul {
   margin-bottom: 20px;
 }
 
+.mySkills div{
+  width:18%;
+  padding: 5px;
+ } 
 /* .mySkills {
   text-align:center; */
 
