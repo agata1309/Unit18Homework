@@ -60,7 +60,7 @@ nav ul {
   display:flex;
   width:15%;
   gap: 8rem;
-  padding: 2px;
+  padding: 15px;
   border:1px solid grey;
   margin-bottom: 20px;
 }
